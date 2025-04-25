@@ -1,3 +1,6 @@
-1. install libary python
+1. install libary python\
+python -m venv venv-tf
+venv-tf\Scripts\activate
+pip install --upgrade pip
 pip install mediapipe opencv-python scikit-learn matplotlib numpy tensorflow pandas
 
